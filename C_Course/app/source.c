@@ -1,16 +1,16 @@
 #include<stdio.h>
 #include <stdlib.h>
+#include "foo.h"
 int main()
 {
  
     FILE *fp;   /* file pointer*/
-    char fName[20];
+   //fName = ;
  
-    printf("\nEnter file name to create :");
-    scanf("%s",fName);
+   
  
     /*creating (open) a file*/
-    fp=fopen(fName,"w");
+    fp=fopen("test.txt","w");
     /*check file created or not*/
     if(fp==NULL)
     {
@@ -28,7 +28,7 @@ int main()
     fclose(fp);
  
     /*again open file to read data*/
-    fp=fopen(fName,"r");
+    fp=fopen("test.txt","r");
     if(fp==NULL)
     {
         printf("\nCan't open file!!!");
@@ -41,5 +41,9 @@ int main()
     printf("%c",getc(fp));
  
     fclose(fp);
+
+    //simple header file 
+    int y = foo(3);  /* Use the function here */
+    printf("%d\n", y);
     return 0;
 }

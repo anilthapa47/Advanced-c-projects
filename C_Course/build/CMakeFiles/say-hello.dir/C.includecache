@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/projects/Advanced-c-projects/C_Course/app/foo.c
+foo.h
+/root/projects/Advanced-c-projects/C_Course/app/foo.h
+
+/root/projects/Advanced-c-projects/C_Course/app/foo.h
+

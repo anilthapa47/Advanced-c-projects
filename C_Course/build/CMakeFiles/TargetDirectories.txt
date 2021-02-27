@@ -1,0 +1,4 @@
+/root/projects/Advanced-c-projects/C_Course/build/CMakeFiles/edit_cache.dir
+/root/projects/Advanced-c-projects/C_Course/build/CMakeFiles/Myproject.dir
+/root/projects/Advanced-c-projects/C_Course/build/CMakeFiles/rebuild_cache.dir
+/root/projects/Advanced-c-projects/C_Course/build/CMakeFiles/say-hello.dir

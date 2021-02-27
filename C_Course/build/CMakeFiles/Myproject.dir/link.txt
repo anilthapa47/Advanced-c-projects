@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99 -Wall -g   CMakeFiles/Myproject.dir/app/source.c.o  -o ../Myproject-debug  libsay-hello.a 
