@@ -1,0 +1,9 @@
+/root/projects/Advanced-c-projects/C_Course/CMakeFiles/edit_cache.dir
+/root/projects/Advanced-c-projects/C_Course/CMakeFiles/rebuild_cache.dir
+/root/projects/Advanced-c-projects/C_Course/CMakeFiles/say-hello.dir
+/root/projects/Advanced-c-projects/C_Course/Advanced-c-projects/CMakeFiles/rebuild_cache.dir
+/root/projects/Advanced-c-projects/C_Course/Advanced-c-projects/CMakeFiles/edit_cache.dir
+/root/projects/Advanced-c-projects/C_Course/Advanced-c-projects/CMakeFiles/lib.dir
+/root/projects/Advanced-c-projects/C_Course/Test/CMakeFiles/rebuild_cache.dir
+/root/projects/Advanced-c-projects/C_Course/Test/CMakeFiles/edit_cache.dir
+/root/projects/Advanced-c-projects/C_Course/Test/CMakeFiles/app.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -std=gnu99 -Wall -g  -shared -Wl,-soname,liblib_d.so -o ../lib/liblib_d.so CMakeFiles/lib.dir/lib.c.o 

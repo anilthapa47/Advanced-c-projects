@@ -1,0 +1,1 @@
+/usr/bin/cc -std=gnu99 -Wall -g   CMakeFiles/app.dir/test.c.o  -o ../app/app_d  -Wl,-rpath,/root/projects/Advanced-c-projects/C_Course/lib ../lib/liblib_d.so 
